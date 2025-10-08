@@ -36,6 +36,8 @@ yarn install
 ## ⚡ Menjalankan Project
 
 ```bash
+cp .env.example .env
+
 npm run dev
 # or
 yarn dev
