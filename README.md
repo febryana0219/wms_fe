@@ -21,7 +21,7 @@ Frontend untuk **Warehouse Management & Order System** menggunakan **React 18**,
 1. Clone repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/febryana0219/wms_fe.git
 cd wms_fe
 ```
 
