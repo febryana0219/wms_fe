@@ -1,5 +1,5 @@
 {
-      "name": "User Management System",
+      "name": "wms_fe",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
